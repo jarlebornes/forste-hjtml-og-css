@@ -1,0 +1,27 @@
+body{background-color: grey;
+}
+h1 {
+  text-align: center;
+  color: black;
+}
+p{
+  color: red;
+}
+
+.sitat {
+  color:blue;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 50px;
+}
+.bilde{
+  width: 200px;
+  border-radius: 50%;
+  border-color: pink;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
